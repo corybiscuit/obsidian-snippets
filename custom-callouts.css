@@ -1,0 +1,221 @@
+/* Default Color */
+
+.callout[data-callout="calendar"] {
+    --callout-icon: lucide-calendar;
+}
+
+.callout[data-callout="globe"] {
+    --callout-icon: lucide-globe;
+}
+
+.callout[data-callout="factory"] {
+    --callout-icon: lucide-factory;
+}
+
+.callout[data-callout="network"] {
+    --callout-icon: lucide-network;
+}
+
+.callout[data-callout="orbit"] {
+    --callout-icon: lucide-orbit;
+}
+
+.callout[data-callout="mask"] {
+    --callout-icon: lucide-venetian-mask;
+}
+
+.callout[data-callout="video"] {
+    --callout-icon: lucide-video;
+}
+
+.callout[data-callout="blocks"] {
+    --callout-icon: lucide-blocks;
+}
+
+.callout[data-callout="map"] {
+    --callout-icon: lucide-map;
+}
+
+.callout[data-callout="radar"] {
+    --callout-icon: lucide-radar;
+}
+
+.callout[data-callout="rocket"] {
+    --callout-icon: lucide-rocket;
+}
+
+.callout[data-callout="earth"] {
+    --callout-icon: lucide-earth;
+}
+
+.callout[data-callout="user"] {
+    --callout-icon: lucide-user;
+}
+
+.callout[data-callout="book"] {
+    --callout-icon: lucide-book;
+}
+
+.callout[data-callout="boxes"] {
+    --callout-icon: lucide-boxes;
+}
+
+.callout[data-callout="castle"] {
+    --callout-icon: lucide-castle;
+}
+
+.callout[data-callout="compass"] {
+    --callout-icon: lucide-compass;
+}
+
+.callout[data-callout="shell"] {
+    --callout-icon: lucide-shell;
+}
+
+.callout[data-callout="tram-front"] {
+    --callout-icon: lucide-tram-front;
+}
+
+.callout[data-callout="plug"] {
+    --callout-icon: lucide-plug;
+}
+
+.callout[data-callout="puzzle"] {
+    --callout-icon: lucide-puzzle;
+}
+
+.callout[data-callout="sparkles"] {
+    --callout-icon: lucide-sparkles;
+}
+
+.callout[data-callout="sun"] {
+    --callout-icon: lucide-sun;
+}
+
+.callout[data-callout="box"] {
+    --callout-icon: lucide-box;
+}
+
+.callout[data-callout="code"] {
+    --callout-icon: lucide-terminal;
+}
+
+.callout[data-callout="cross"] {
+    --callout-icon: lucide-cross;
+}
+
+.callout[data-callout="hexagon"] {
+    --callout-icon: lucide-hexagon;
+}
+
+.callout[data-callout="link"] {
+    --callout-icon: lucide-link;
+}
+
+.callout[data-callout="notes"] {
+    --callout-icon: lucide-notebook-pen;
+}
+
+.callout[data-callout="scroll"] {
+    --callout-icon: lucide-scroll;
+}
+
+.callout[data-callout="activity"] {
+    --callout-icon: lucide-activity;
+}
+
+.callout[data-callout="joystick"] {
+    --callout-icon: lucide-joystick;
+}
+
+.callout[data-callout="milestone"] {
+    --callout-icon: lucide-milestone;
+}
+
+.callout[data-callout="rainbow"] {
+    --callout-icon: lucide-rainbow;
+}
+
+.callout[data-callout="radio"] {
+    --callout-icon: lucide-radio-tower;
+}
+
+.callout[data-callout="camera"] {
+    --callout-icon: lucide-camera;
+}
+
+.callout[data-callout="play"] {
+    --callout-icon: lucide-play;
+}
+
+.callout[data-callout="recycle"] {
+    --callout-icon: lucide-recycle;
+}
+
+.callout[data-callout="train"] {
+    --callout-icon: lucide-train-front;
+}
+
+.callout[data-callout="bike"] {
+    --callout-icon: lucide-bike;
+}
+
+.callout[data-callout="contact"] {
+    --callout-icon: lucide-contact;
+}
+
+.callout[data-callout="leaf"] {
+    --callout-icon: lucide-leaf;
+}
+
+.callout[data-callout="keyboard"] {
+    --callout-icon: lucide-keyboard;
+}
+
+.callout[data-callout="trees"] {
+    --callout-icon: lucide-trees;
+}
+
+.callout[data-callout="anchor"] {
+    --callout-icon: lucide-anchor;
+}
+
+.callout[data-callout="locate"] {
+    --callout-icon: lucide-locate;
+}
+
+.callout[data-callout="ship"] {
+    --callout-icon: lucide-ship;
+}
+
+.callout[data-callout="award"] {
+    --callout-icon: lucide-award;
+}
+
+.callout[data-callout="cone"] {
+    --callout-icon: lucide-traffic-cone;
+}
+
+.callout[data-callout="fingerprint"] {
+    --callout-icon: lucide-fingerprint-pattern;
+}
+
+.callout[data-callout="clock"] {
+    --callout-icon: lucide-clock;
+}
+
+.callout[data-callout="snowflake"] {
+    --callout-icon: lucide-snowflake;
+}
+
+.callout[data-callout="shipwheel"] {
+    --callout-icon: lucide-ship-wheel;
+}
+
+.callout[data-callout="ban"] {
+    --callout-icon: lucide-ban;
+}
+
+.callout[data-callout="home"] {
+    --callout-icon: lucide-house;
+}
